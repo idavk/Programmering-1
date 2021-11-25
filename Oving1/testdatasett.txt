@@ -1,0 +1,25 @@
+Oppgave 1
+
+Øsnket, Forventet, Fikk, Resultat
+1, 2.54, 2.54, ok
+10, 25.4, 25.4, ok
+100, 254.0, 254.0, ok
+-5, -12.7, -12.7, ok
+
+
+Oppgave 2
+
+Ønsket, Forventet, Fikk, Resultat
+0:0:0, 0, 0, ok
+3:40:20, 13220, 13220, ok
+10:50:10, 39010, 39010, ok
+-2:30:3, -9003, -9003, ok
+
+
+Oppgave 3
+
+Ønsket, Forventet, Fikk, Resultat
+0, 0:0:0, 0:0:0, ok
+3664, 01:01:04, 01:01:04, ok
+8000, 02:13:20, 2:13:20, ok
+-9000, -02:30:00, -02:-30:00, ikke ok

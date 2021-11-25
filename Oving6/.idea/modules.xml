@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Enkletabeller/Enkletabeller.iml" filepath="$PROJECT_DIR$/IdeaProjects/Enkletabeller/Enkletabeller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/IdeaProjects/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Oving6.iml" filepath="$PROJECT_DIR$/.idea/Oving6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects/Oving6.java/Oving6.java.iml" filepath="$PROJECT_DIR$/IdeaProjects/Oving6.java/Oving6.java.iml" />
+    </modules>
+  </component>
+</project>
